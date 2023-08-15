@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasyavasya7628
-- 👀 I’m interested in android
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on any Android projects
+- 👀 I’m interested in C#, .NET, UNITY
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on any C# projects
 - 📫 How to reach me mineok44@gmaill.com
 
 <!---
