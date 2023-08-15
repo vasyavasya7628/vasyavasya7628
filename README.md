@@ -1,3 +1,4 @@
+- [EN]
 - 👋 Hi, I’m @vasyavasya7628
 - 👀 I’m interested in C#, .NET, UNITY
 - 🌱 I’m currently learning C#
@@ -6,6 +7,8 @@
 mineok44@gmaill.com
 https://t.me/i0x3141
 
+
+- [RU]
 - 👋 Привет, я @vasyavasya7628
 - 👀 Меня интересуют C#, .NET, UNITY
 - 🌱 Сейчас я изучаю C#
